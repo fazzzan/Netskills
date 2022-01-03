@@ -1,0 +1,15 @@
+___Материал XX-го дня___ 
+- I
+  - II (XX-YY / 0X:XX:00 - 0X:XX:00)
+     - III (XX-YY / 0X:XX:00 - 0X:XX:00)
+     - III (XX-YY / 0X:XX:00 - 0X:XX:00)
+     - III (XX-YY / 0X:XX:00 - 0X:XX:00)
+  - II (XX-YY / 0X:XX:00 - 0X:XX:00)
+     - III (XX-YY / 0X:XX:00 - 0X:XX:00)
+     - III (XX-YY / 0X:XX:00 - 0X:XX:00)
+     - III (XX-YY / 0X:XX:00 - 0X:XX:00)
+  - II (XX-YY / 0X:XX:00 - 0X:XX:00)
+     - III (XX-YY / 0X:XX:00 - 0X:XX:00)
+     - III (XX-YY / 0X:XX:00 - 0X:XX:00)
+     - III (XX-YY / 0X:XX:00 - 0X:XX:00)
+- LAB GUIDE Л/Р XX (XX-XX / 06:40:45 - 07:19:12) 
