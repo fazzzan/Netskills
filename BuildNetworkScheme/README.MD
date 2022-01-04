@@ -1,7 +1,8 @@
-[Структурна схема сети](Lecture01/README.MD)
-[L3 схема сети](Lecture02/README.MD)
-[L2 схема сети](Lecture03/README.MD)
+- [Структурна схема сети](Lecture01/README.MD)
+- [L3 схема сети](Lecture02_05/README.MD)
+- [L2 схема сети](Lecture03/README.MD)
+- [Оборудования в стойке и ip-план](Lecture04/README.MD)
 
-[L2 схема сети](Lecture04/README.MD)
+
 [L2 схема сети](Lecture05/README.MD)
 [L2 схема сети](Lecture06/README.MD)
