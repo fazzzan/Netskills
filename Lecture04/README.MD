@@ -12,7 +12,7 @@
 Необходимо для:
 - порядок
 - планирование будущих работ
-![](pictures/01.jpg)
+![](GIT/Netskills/Lecture04/pictures/01.jpg)
 
 
 

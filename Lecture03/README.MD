@@ -10,20 +10,20 @@
 - ip-адреса
 - виртуальные сети (vrf, vsx, vdom, vswitch и т.д.)
 
-![](pictures/01.jpg)
+![](GIT/Netskills/Lecture03/pictures/01.jpg)
 
 На L2 схеме кластеры уже отображаются 2 устройствами, так как необходимо показать как именно они соединены между собой. 
 
-![](pictures/02.jpg)
+![](GIT/Netskills/Lecture03/pictures/02.jpg)
 
 Также отражают медиаконвертеры/SFP-модули, которые используются для преобразования сред. На этой схеме уже надо использовать "слои", чтобы легко различать:
 
 - типы сред
-![](pictures/03.jpg)
+![](GIT/Netskills/Lecture03/pictures/03.jpg)
 
 - типы линков (eth Channel)
 
-![](pictures/04.jpg)
+![](GIT/Netskills/Lecture03/pictures/04.jpg)
 
 - имена нод
 

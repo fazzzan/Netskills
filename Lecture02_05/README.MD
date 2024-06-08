@@ -9,19 +9,19 @@
 - Физические порты
 - Оборудование, которое работает на L2
 
-![](pictures/01.jpg)
+![](GIT/Netskills/Lecture02_05/pictures/01.jpg)
 
 Объекты соединяют между собой "сетями". 
 
-![](pictures/02.jpg)
+![](GIT/Netskills/Lecture02_05/pictures/02.jpg)
 
 У сетей надо добавить "точки прявязки", через редактирование стиля.
 
-![](pictures/03.jpg)
+![](GIT/Netskills/Lecture02_05/pictures/03.jpg)
 
 Такие "трубочки" (подсетки) нарезаем для всех сегментов/VLAN. В результате получаем:
 
-![](pictures/04.jpg)
+![](GIT/Netskills/Lecture02_05/pictures/04.jpg)
 
 Не забываем добавлять ip IF устройств
 
